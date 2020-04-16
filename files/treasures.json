@@ -1,0 +1,21 @@
+[{
+        "coordinates": {
+            "x": 5,
+            "y": 2
+        },
+        "treasures": {
+            "name": "treasure chest",
+            "value": 120
+        }
+    },
+    {
+        "coordinates": {
+            "x": -1,
+            "y": 0
+        },
+        "treasures": {
+            "name": "green charm",
+            "value": 5
+        }
+    }
+]
